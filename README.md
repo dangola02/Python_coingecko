@@ -16,13 +16,6 @@ cd src/
 python3 coingecko.py
 ```
 
-To run tests type following commands:
-
-```shell
-cd test/
-python3 test.py
-```
-
 ## Examples
 
 Here is the example of usage:
