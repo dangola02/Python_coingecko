@@ -29,5 +29,5 @@ Here is the example of usage:
 
 ```shell
 Enter number of crypto currencies to pull:
-15
-['bitcoin', 'ethereum', 'cardano', 'tether', 'binancecoin', 'ripple', 'solana', 'usd-coin', 'polkadot', 'dogecoin', 'avalanche-2', 'terra-luna', 'binance-usd', 'uniswap', 'cosmos']
+5
+['bitcoin', 'ethereum', 'cardano', 'tether', 'binancecoin']
